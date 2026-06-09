@@ -1,7 +1,7 @@
 <!-- 0xArihant | Cybersecurity Student | B.Tech CSE -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=E01A4F&center=true&vCenter=true&width=800&lines=whoami+->+Arihant+(0xArihant);Focus+->+Cybersecurity+%2B+Networking;grep+-r+%22knowledge%22+%2Fhome%2Farihant;Building+securely.+Breaking+ethically." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=E01A4F&center=true&vCenter=true&width=800&lines=whoami+->+Arihant+(0xArihant);Focus+->+Cybersecurity+%2B+Networking;grep+-r+%22knowledge%22+%2Fhome%2Farihant;My+code+works+on+my+machine" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -29,7 +29,7 @@ arihant@github:~$ cat profile.txt
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,py,bash,git,github,vscode,html,css,js&theme=dark" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,py,bash,git,github,vscode,html,css,js,react,nodejs,pr,ae,ps,figma&theme=dark" alt="skills" />
   </a>
 </p>
 
